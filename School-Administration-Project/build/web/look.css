@@ -1,0 +1,62 @@
+body
+{
+background-image: url("log.jpg");
+background-repeat: no-repeat: 
+background-color: #cccccc;
+height: 400px;
+background-size: cover;
+background-position: center;
+resize: both;
+
+}
+#mymenu
+{
+background-color:rgba(0,0,0,0.1);
+color:green;
+text-align:right;
+}
+#mymenu ul li
+{
+display:inline-block;
+padding:18px;
+color:#0000ff;
+text-shadow:lime 0px 0px 5px;
+font-size: 19px;
+font-family: comic Sans MS;
+}
+#mymenu ul li:hover
+{
+    background:#00ffcc;
+}
+table
+{
+margin-top:50px;
+margin-left:450px;
+background-color:rgba(0,0,0,0.5);
+color:#33ffff;
+box-shadow:15px 15px 15px black;
+text-shadow:red 3px 2px 5px;
+font-size: 15px;
+font-family: Segoe Script;
+
+}
+.B
+{
+background:linear-gradient(green,yellow);
+color:white;
+padding:5px;
+border-radius:0px 10px 0px 10px;
+}
+.B:hover
+{
+background:linear-gradient(blue,orange,pink);
+color:white;
+padding:5px;
+border-radius:10px 0px 10px 0px;
+}
+.A
+{
+border-radius:20px;
+}
+
+ 
